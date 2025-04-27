@@ -1,4 +1,4 @@
-# Projeto de Conclusão de disciplina.
+# Medieval Battle
 ### Fundamentos de Desenvolvimento JAVA.
 
 - Sua tarefa será desenvolver um jogo chamado Medieval Battle.
